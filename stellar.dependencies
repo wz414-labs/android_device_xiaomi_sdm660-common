@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "LineageOS/android_kernel_xiaomi_sdm660",
+    "target_path": "kernel/xiaomi/sdm660"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "the-muppets/proprietary_vendor_xiaomi",
+    "branch": "lineage-18.1",
+    "target_path": "vendor/xiaomi"
+  }
+]
